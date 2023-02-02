@@ -1,0 +1,14 @@
+C:\Users\opilane\source\repos\TEST\TEST\bin\Debug\netcoreapp3.1\TEST.exe
+C:\Users\opilane\source\repos\TEST\TEST\bin\Debug\netcoreapp3.1\TEST.deps.json
+C:\Users\opilane\source\repos\TEST\TEST\bin\Debug\netcoreapp3.1\TEST.runtimeconfig.json
+C:\Users\opilane\source\repos\TEST\TEST\bin\Debug\netcoreapp3.1\TEST.runtimeconfig.dev.json
+C:\Users\opilane\source\repos\TEST\TEST\bin\Debug\netcoreapp3.1\TEST.dll
+C:\Users\opilane\source\repos\TEST\TEST\bin\Debug\netcoreapp3.1\TEST.pdb
+C:\Users\opilane\source\repos\TEST\TEST\obj\Debug\netcoreapp3.1\TEST.csproj.AssemblyReference.cache
+C:\Users\opilane\source\repos\TEST\TEST\obj\Debug\netcoreapp3.1\TEST.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\opilane\source\repos\TEST\TEST\obj\Debug\netcoreapp3.1\TEST.AssemblyInfoInputs.cache
+C:\Users\opilane\source\repos\TEST\TEST\obj\Debug\netcoreapp3.1\TEST.AssemblyInfo.cs
+C:\Users\opilane\source\repos\TEST\TEST\obj\Debug\netcoreapp3.1\TEST.csproj.CoreCompileInputs.cache
+C:\Users\opilane\source\repos\TEST\TEST\obj\Debug\netcoreapp3.1\TEST.dll
+C:\Users\opilane\source\repos\TEST\TEST\obj\Debug\netcoreapp3.1\TEST.pdb
+C:\Users\opilane\source\repos\TEST\TEST\obj\Debug\netcoreapp3.1\TEST.genruntimeconfig.cache
